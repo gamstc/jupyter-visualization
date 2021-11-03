@@ -1,0 +1,7 @@
+# in toc_yml
+
+format: jb-book
+root: index
+chapters: 
+- file: Beispiel
+  
