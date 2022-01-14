@@ -12,6 +12,6 @@ launch_buttons:
 repository: 
   url: https://github.com/gamstc/jupyter-visualization
   path_to_book: ''
-  branch: 'master'
+  branch: 'main'
 
 
