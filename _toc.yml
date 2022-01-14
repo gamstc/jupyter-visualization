@@ -3,5 +3,6 @@
 format: jb-book
 root: index
 chapters: 
-- file: Beispiel
+- file: Gapminder
+- file: Glassdoor
   
