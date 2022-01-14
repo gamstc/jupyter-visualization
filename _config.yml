@@ -1,3 +1,17 @@
 # in _config.yml
 
 title: 'Jupyter Workshop UFF'
+author: 'Cornelia Gamst'
+copyright: '2022'
+
+# Launch button settings: 
+
+launch_buttons: 
+  binderhub_url: https://mybinder.org
+  
+repository: 
+  url: https://github.com/gamstc/jupyter-visualization
+  path_to_book: ''
+  branch: 'master'
+
+
